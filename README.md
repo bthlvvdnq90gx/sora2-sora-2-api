@@ -2,7 +2,7 @@
 
 > **default $0.08; official-720P $0.08** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-4b16ab)** · **[Get an API key](https://go.apimart.ai/k-2c81cd)**
 
 Everything here refers to **sora-2** — also written **sora2** or **sora 2**.
 
