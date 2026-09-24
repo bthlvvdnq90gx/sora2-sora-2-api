@@ -1,0 +1,13 @@
+{
+  "repo": "sora2-sora-2-api",
+  "model": "sora-2",
+  "display": "Sora 2",
+  "variant": "api",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_second",
+  "tiers": {
+    "default": 0.08,
+    "official-720P": 0.08
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
